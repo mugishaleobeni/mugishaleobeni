@@ -34,6 +34,10 @@ At Pyllarix, the focus is on understanding real-world challenges and turning the
 | **Tools & Platforms** | Git, GitHub, Linux, Firebase, REST APIs |
 | **AI/ML Learning** | PyTorch, Hugging Face Transformers, model fine-tuning fundamentals |
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishaleobeni&layout=compact&theme=transparent&hide_border=true)
+
 ## Engineering Philosophy
 
 <div align="center">
