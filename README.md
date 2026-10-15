@@ -52,6 +52,6 @@ I value clear architecture, readable code, security, performance, collaboration,
 
 **Learn. Design. Build. Test. Improve.**
 
-*Pylarix — We Create Solutions, Not Technology.*
+*Pylarix — Beyond Technology. Real Solutions.*
 
 </div>
