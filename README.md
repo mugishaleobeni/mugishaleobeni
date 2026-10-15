@@ -16,11 +16,11 @@
 
 I'm a software developer from Rwanda with an interest in building dependable, useful software and growing into AI engineering. I work across frontend and backend development, enjoy solving complex problems, and believe good engineering means writing maintainable code, testing carefully, and delivering value to people.
 
-## Pyllarix
+## Pylarix
 
-**Pyllarix** is my software and technology company, guided by one principle:
+**Pylarix** is my software and technology company, guided by one principle:
 
-> **We Create Solutions, Not Technology.**
+> **Beyond Technology. Real Solutions.**
 
 At Pyllarix, the focus is on understanding real-world challenges and turning them into practical, thoughtfully engineered digital solutions.
 
@@ -48,6 +48,6 @@ I value clear architecture, readable code, security, performance, collaboration,
 
 **Learn. Design. Build. Test. Improve.**
 
-*Pyllarix — We Create Solutions, Not Technology.*
+*Pylarix — We Create Solutions, Not Technology.*
 
 </div>
